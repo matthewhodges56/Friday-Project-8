@@ -1,2 +1,3 @@
-# Friday-Project-8
+# Friday Project 8: Customer Feedback Application
  
+This program is a simple customer feedback application built with Python using Tkinter for the GUI and SQLite for data storage. It allows users to submit their name, email, and feedback, which is saved in a database. Additionally, there's a "Retrieve Data" button that displays all stored feedback entries in the console after entering the correct password which is `skip`.
